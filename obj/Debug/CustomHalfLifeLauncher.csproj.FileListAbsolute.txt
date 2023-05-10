@@ -1,0 +1,10 @@
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\bin\Debug\CustomHalfLifeLauncher.exe.config
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\bin\Debug\CustomHalfLifeLauncher.exe
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\bin\Debug\CustomHalfLifeLauncher.pdb
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.csproj.AssemblyReference.cache
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.Form1.resources
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.Properties.Resources.resources
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.csproj.GenerateResource.cache
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.csproj.CoreCompileInputs.cache
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.exe
+E:\repos\CustomHalfLifeLauncher\CustomHalfLifeLauncher\obj\Debug\CustomHalfLifeLauncher.pdb
